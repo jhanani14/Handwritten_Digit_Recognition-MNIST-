@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Logs and backup files
+*.log
+*.bak
+
+# Cache files
+*.cache/
+*.pkl
+
+# DO NOT ignore model files (.h5 and .keras) — needed for predictions!
+# So they are intentionally NOT excluded
